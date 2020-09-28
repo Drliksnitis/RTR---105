@@ -1,0 +1,133 @@
+  192  ls -lt
+  193  rm a.txt 
+  194  ls -lt
+  195  cd ifcpp
+  196  ls -lt
+  197  cd ..
+  198  ls -lt
+  199  ./ifcpp_build/Release/SimpleViewerExample 
+  200  ./ifcpp_build/Release/SimpleViewerExample &
+  201  ls -lt
+  202  cd ifcpp_build/
+  203  ls -lt
+  204  cd Release/
+  205  ls -lt
+  206  ./SimpleViewerExample 
+  207  ls -lta
+  208  cd ..
+  209  ls -lta
+  210  cd ..
+  211  ls -lta
+  212  cd .config
+  213  ls -lta
+  214  cat IfcPlusPlus.conf 
+  215  ls -lt
+  216  cat QtProject.conf 
+  217  ls -lt
+  218  nano IfcPlusPlus.conf 
+  219  ls -lt
+  220  ls -lta
+  221  nano IfcPlusPlus.conf 
+  222  ls -lt
+  223  nano IfcPlusPlus.conf 
+  224  ls -lt
+  225  nano IfcPlusPlus.conf 
+  226  ls -lt
+  227  nano IfcPlusPlus.conf 
+  228  ls -lt
+  229  nano IfcPlusPlus.conf 
+  230  ls -lta
+  231  history 
+  232  ls -lta
+  233  exit
+  234  cd /
+  235  ls -lt
+  236  cd tmp/
+  237  ls -lt
+  238  ls -lta
+  239  rm -r *
+  240  rm -rf *
+  241  ls -lt
+  242  cd ..
+  243  cd tmp/
+  244  ls -lta
+  245  cd ..
+  246  ls -lta
+  247  cd
+  248  ls -lta
+  249  cd
+  250  ls -lta
+  251  ls -lt
+  252  ./ifcpp_build/Release/SimpleViewerExample 
+  253  ./ifcpp_build/Release/SimpleViewerExample &
+  254  pwd
+  255  ls -lt
+  256  ./SimpleViewerExample &
+  257  ./ifcpp_build/Release/SimpleViewerExample &
+  258  ps aux | grep ifc
+  259  ./ifcpp_build/Release/SimpleViewerExample &
+  260  ps aux | grep ifc
+  261  kill 16096
+  262  ./ifcpp_build/Release/SimpleViewerExample &
+  263  idle &
+  264  history 
+  265  ls -lt
+  266  ls -l Downloads/
+  267  rm Downloads/teamviewer_15.10.5_amd64.deb 
+  268  ls -l Downloads/
+  269  ls -lta
+  270  ls -lt
+  271  ps aux
+  272  ./ifcpp_build/Release/SimpleViewerExample &
+  273  ls -lt
+  274  pip install pandas
+  275  idle &
+  276  python3.6
+  277  idle-python3.6 &
+  278  idle3.6 &
+  279  teamviewer &
+  280  exit
+  281  pwd
+  282  git clone
+  283  pwd
+  284  git clone https://github.com/Drliksnitis/RTR---105
+  285  ls -lt
+  286  ./a.out
+  287  a.out
+  288  cp first.c second
+  289  nano first.c
+  290  ls -lt
+  291  gcc first.c -o first.out
+  292  ls -lt
+  293  cat first.c
+  294  cp first.c HelloWorld.c
+  295  ls -lt
+  296  nano first.c
+  297  nano Helloworld.c
+  298  gcc HelloWorld.c
+  299  nano HelloWorld.c
+  300  cat HelloWorld.c
+  301  gcc HelloWorld.c
+  302  ls -lt
+  303  echo $/
+  304  gcc HelloWorld
+  305  nano HelloWorld.c
+  306  ./a.out
+  307  nano HelloWorld.c
+  308  cat HelloWorld.c
+  309  gcc HelloWorld.c
+  310  ./a.out
+  311  nano HelloWorld.c
+  312  echo $?
+  313  nano HelloWorld.c
+  314  pwd
+  315  history
+  316  history > history_20200928.txt
+  317  cd ./RTR---105/
+  318  history > history_20200928.txt
+  319  git config --global user.email davidsliksnitis@gmail.com
+  320  rm *out
+  321  git push origin master
+  322  git push master
+  323  Drliksnitis
+  324  history
