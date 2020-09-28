@@ -1,0 +1,37 @@
+  280  exit
+  281  pwd
+  282  git clone
+  283  pwd
+  284  git clone https://github.com/Drliksnitis/RTR---105
+  285  ls -lt
+  286  ./a.out
+  287  a.out
+  288  cp first.c second
+  289  nano first.c
+  290  ls -lt
+  291  gcc first.c -o first.out
+  292  ls -lt
+  293  cat first.c
+  294  cp first.c HelloWorld.c
+  295  ls -lt
+  296  nano first.c
+  297  nano Helloworld.c
+  298  gcc HelloWorld.c
+  299  nano HelloWorld.c
+  300  cat HelloWorld.c
+  301  gcc HelloWorld.c
+  302  ls -lt
+  303  echo $/
+  304  gcc HelloWorld
+  305  nano HelloWorld.c
+  306  ./a.out
+  307  nano HelloWorld.c
+  308  cat HelloWorld.c
+  309  gcc HelloWorld.c
+  310  ./a.out
+  311  nano HelloWorld.c
+  312  echo $?
+  313  nano HelloWorld.c
+  314  pwd
+  315  history
+  316  history > history_20200928.txt
