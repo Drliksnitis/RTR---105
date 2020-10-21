@@ -34,4 +34,8 @@
  printf("Mainigais h unsigned decimal integer with spaces ir: %10u\n",h);
  printf("Mainigais h unsigned decimal integer with zeros ir: %010u\n",h);
 
+ result 0;
+
+
+
 }
