@@ -10,6 +10,21 @@
  int main()
  {
 
+
+char b = 2;
+ c = a << b;// 0000 0101 << 2 -> 0001 0100
+ printf("%d << %d = %d\n",a,b,c);
+ b = 3;
+ c = a << b;// 0000 0101 << 3 -> 0010 1000
+ printf("%d << %d = %d\n",a,b,c);
+
+
+
+
+
+
+
+/*
  char a = 5;// 0000 0101
  char b = 5;
 // char c = a << b;// 0000 0101 << 1 -> 0000 1010
@@ -32,15 +47,8 @@
  time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
  printf("Reizinasana ar 2 ar << operaciju: %g\n",time_spent);
  printf("%d * 2 = %d\n",a,c);
-
-/*
- b = 2;
- c = a << b;// 0000 0101 << 2 -> 0001 0100
- printf("%d << %d = %d\n",a,b,c);
- b = 3;
- c = a << b;// 0000 0101 << 3 -> 0010 1000
- printf("%d << %d = %d\n",a,b,c);
 */
+
 
 /*
  char a = 5;// 0000 0101
@@ -77,12 +85,12 @@
 
 
 */
-
+/*
  a = 100;
  b = 4;
  c = a >> b; // 0110 |0100 >> -> 0000 0110
  printf("%d >> %d = %d\n",a,b,c);
-
+*/
 
 
  return 0;
