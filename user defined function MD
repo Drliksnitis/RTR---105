@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void bez_argum_bez_return()
+{
+    int a = 1, b = 2, c;
+    c = a + b;
+    printf("Saskaitamo summa ir %d (Bez argumenta un bez return)\n",c);
+}
+
+int ar_argum_bez_return(int argum)
+{
+    printf("Argumenta vērtība ir %d (Ar argumentu un bez return)\n",argum);
+}
+
+int bez_argum_ar_return()
+{
+    int result = 5;
+    printf("Return rezultāts ir %d (Bez argumenta un ar return)\n",result);
+    return result;
+}
+void ar_argum_ar_return(int l, int m)
+{
+    int argumentreturn = l + m;
+    printf("Argumentu summa ir %d (Ar argumentu un ar return)\n",argumentreturn);
+    return argumentreturn;
+}
+
+int main()
+{
+    bez_argum_bez_return();
+    bez_argum_ar_return();
+    ar_argum_bez_return(11);
+    ar_argum_ar_return(2,4);
+
+
+    return 0;
+}
