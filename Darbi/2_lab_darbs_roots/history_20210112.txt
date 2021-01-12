@@ -1,0 +1,34 @@
+  1  rm -rf RTR---105
+  2  git clone https://github.com/Drliksnitis/RTR---105
+  3  ls -lt
+  4  cd RTR---105
+  5  cd ./Darbi
+  6  ls -lt
+  7  cd ./1_lab_darbs_series
+  8  ls -lt
+  9  nano README.me
+  10  ls -lt
+  11  nano README.md
+  12  cd --
+  13  cd RTR---105
+  14  git config --global user.email davidsliksnitis@gmail.com
+  15  git add .
+  16  git commit -m "20210112"
+  17  git push origin master
+  18  cd ..
+  19  rm -rf RTR---105
+  20  git clone https://github.com/Drliksnitis/RTR---105
+  21  cd RTR---105
+  22  cd ./Darbi
+  23  ls -lt
+  24  mkdir 2_lab_darbs_roots
+  25  cd./2_lab_darbs_roots
+  26  ls -lt
+  27  cd ./2_lab_darbs_roots
+  28  nano 2lab_darba_kods.c
+  29  gcc 2lab_darba_kods.c
+  30  ./a.out
+  31  nano README.md
+  138  gnuplot
+  139  nano history_20210112.txt
+  140  history
