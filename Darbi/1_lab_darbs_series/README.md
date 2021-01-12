@@ -59,22 +59,22 @@ return S ;
 
  void main()
  {
-	double x = 0, y;
-	printf("(sin(x))^2 aprekinasana:\n");
-	printf("Ievadi argumentu x ar vismaz vienu ciparu aiz komata: ");
-	scanf("%lf\n", &x);
-	printf("\nTeilora rindas funkcijas iznakums (sin(x))^2 = %.8f\n", pow(sin(x),2));
-	y = pow(sin(x),2);
-	printf ( "(sin(x))^2 no math.h: y = (sin (%.2f ))^2 = %.8f \n" ,x , y);
-	printf("(sin(x))^2 izteiksme:\n");
-	printf("%s", sinx_izteiksme);
-	printf("Definicijas apgabals pieder visam x vertibam\n");
-	printf("Rekurences reizinatajs:\n");
-	printf("%s", rekurences_reiz);
+double x = 0, y;
+printf("(sin(x))^2 aprekinasana:\n");
+printf("Ievadi argumentu x ar vismaz vienu ciparu aiz komata: ");
+scanf("%lf\n", &x);
+printf("\nTeilora rindas funkcijas iznakums (sin(x))^2 = %.8f\n", pow(sin(x),2));
+y = pow(sin(x),2);
+printf ( "(sin(x))^2 no math.h: y = (sin (%.2f ))^2 = %.8f \n" ,x , y);
+printf("(sin(x))^2 izteiksme:\n");
+printf("%s", sinx_izteiksme);
+printf("Definicijas apgabals pieder visam x vertibam\n");
+printf("Rekurences reizinatajs:\n");
+printf("%s", rekurences_reiz);
 }
 
 ```
-Komentari par kodu: 
+Komentari par kodu:
 
 
 ### Rezultats

@@ -1,0 +1,97 @@
+  1  git clone https://github.com/Drliksnitis/RTR---105
+    2  sudo apt install git
+    3  git clone https://github.com/Drliksnitis/RTR---105
+    4  ls -lt
+    5  cd RTR---105
+    6  ls -lt
+    7  mkdir Darbi
+    8  ls -lt
+    9  cd ./Darbi/
+   10  nano 1lab_darb_series.c
+   11  gcc 1lab_darb_series.c
+   12  sudo apt install gcc
+   13  gcc 1lab_darb_series.c
+   14  nano 1lab_darb_series.c
+   15  gcc 1lab_darb_series.c
+   16  ./a.out
+   17  nano 1lab_darb_series.c
+   18  gcc 1lab_darb_series.c
+   19  nano 1lab_darb_series.c
+   20  gcc 1lab_darb_series.c
+   21  nano 1lab_darb_series.c
+   22  gnuplot
+   23  sudo apt install gnuplot-nox # versione 5.2.8+dfsg1-2
+   24  gnuplot
+   25  sudo apt install gnuplot-qt   # version 5.2.8+dfsg1-2
+   26  gnuplot
+   27  nano Read.me
+   28  history
+   29  nano history_20210111.txt
+   30  history
+   31  nano history_20210111.txt
+   32  cd -
+   33  git config --global user.email davidsliksnitis@gmail.com
+   34  git add .
+   35  git commit -m "20210112"
+   36  git push origin master
+   37  cd ..
+   38  cd RTR---105
+   39  cd ./Darbi
+   40  ls -lt
+   41  nano 1lab_darb_series.c
+   42  gcc 1lab_darb_series.c
+   43  cd -
+   44  git config --global user.email davidsliksnitis@gmail.com
+   45  git add .
+   46  git commit -m "20210112"
+   47  git push origin master
+   48  git pull 1lab_darb_series.c
+   49  git pull Darbi
+   50  git pull RTR---105
+   51  CD -
+   52  cd -
+   53  cd ..
+   54  rm -rf RTR---105
+   55  git clone https://github.com/Drliksnitis/RTR---105
+   56  cd RTR---105
+   57  cd ./Darbi
+   58  ls -lt
+   59  nano 1lab_darb_series.c
+   60  gcc 1lab_darb_series.c
+   61  cd -
+   62  git config --global user.email davidsliksnitis@gmail.com
+   63  git add .
+   64  git commit -m "20210112"
+   65  git push origin master
+   66  cd ..
+   67  rm -rf RTR---105
+   68  git clone https://github.com/Drliksnitis/RTR---105
+   69  ls -lt
+   70  cd RTR---105
+   71  cd ./Darbi
+   72  ls -lt
+   73  rm 1lab_darb_series.c
+   74  rm 'grafika attels.png'
+   75  ls -lt
+   76  rm Read.me
+   77  rm history_20210111
+   78  rm history_20210111.txt
+   79  mkdir 1_lab_darbs_series
+   80  cd ./1_lab_darbs_series
+   81  nano 1lab_darba_kods.c
+   82  gcc 1lab_darba_kods.c
+   83* 
+   84  ./1lab_darba_kods.c
+   85  nano README.md
+   86  nano history.txt
+   87  history
+   88  nano history.txt
+   89  cd -
+   90  cd --
+   91  cd RTR---105
+   92  cd ./Darbi
+   93  cd ./1_lab_darb_series
+   94  cd ./1_lab_darbs_series
+   95  gnuplot
+   96  ls -lt
+   97  history
