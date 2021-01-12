@@ -99,4 +99,5 @@ Ta ka sin^2(x) funkcija, tad ir nepieciesams ievadit skaitlus, kas ir mazaki par
 
 ### Bildes
 
-Funkcijas bilde: 
+Funkcijas bilde: https://github.com/Drliksnitis/RTR---105/blob/master/Darbi/2_lab_darbs_roots/funkcijas%20attels%202.png
+
