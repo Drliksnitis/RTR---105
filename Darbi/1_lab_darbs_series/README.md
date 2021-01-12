@@ -113,4 +113,4 @@ Pec ievadita koda veidosanas vareja uzzinat kaa var isaka veida uzrakstit nepiec
 
 ### Bildes
 
-Grafika izveidotais attels: https://github.com/Drliksnitis/RTR---105/blob/master/Darbi/grafika%20attels.png
+Grafika izveidotais attels: https://github.com/Drliksnitis/RTR---105/blob/master/Darbi/1_lab_darbs_series/funkcijas%20attels.png
