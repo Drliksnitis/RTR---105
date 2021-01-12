@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <math.h>
 
-char *sin_izteiksme =
-"                                                           \n"
+
+char *sinx_izteiksme =
+"                                                                                            \n"
 "     \n"
 "                 500     \n"
 "               ______  \n"
@@ -14,7 +16,9 @@ char *sin_izteiksme =
 "                 k=0    \n"
 "                                   \n";
 
-char *rekurences_reizinatajs =
+
+
+char *rekurences_reiz =
 "                                        4       \n"
 "                                       x            \n"
 "    rekurences reizinatajs: ------------------------   \n"
@@ -22,7 +26,7 @@ char *rekurences_reizinatajs =
 "                                ((2*k)*(2*k+1))     \n"
 "           ";
 
-double sin(double x) {
+double sinx(double x) {
 double a, S;
  int k=0;
 a = (x*x);
@@ -48,14 +52,14 @@ return S ;
  {
 double x = 0, y;
 printf("(sin(x))^2 aprekinasana:\n");
-printf("Ludzu ievadiet argumentu x ar vismaz vienu ciparu aiz komata: ");
+printf("Ievadi argumentu x ar vismaz vienu ciparu aiz komata: ");
 scanf("%lf\n", &x);
-printf("\nFunkcijas vertiba (sin(x))^2 = %.8f\n", pow(sin(x),2));
+printf("\nTeilora rindas funkcijas iznakums (sin(x))^2 = %.8f\n", pow(sin(x),2));
 y = pow(sin(x),2);
-printf ( "(sin(x))^2 ar math.h: y = (sin (%.2f ))^2 = %.8f \n" ,x , y);
+printf ( "(sin(x))^2 no math.h: y = (sin (%.2f ))^2 = %.8f \n" ,x , y);
 printf("(sin(x))^2 izteiksme:\n");
-printf("%s", sin_izteiksme);
+printf("%s", sinx_izteiksme);
+printf("Definicijas apgabals pieder visam x vertibam\n");
 printf("Rekurences reizinatajs:\n");
-printf("%s", rekurences_reizinatajs);
-
+printf("%s", rekurences_reiz);
 }
