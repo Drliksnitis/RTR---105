@@ -7,8 +7,8 @@ Skaitliskā diferencēšanas metode ļauj izpētīt un aprēķināt funkciju atv
 2. ∆f=f(x+∆x)-f(x)
 Pirmā formula ir atvasinājumu definīcijas formula, kas tika ievietota "for" ciklā, un aprēķināta pievienojot lietotāja ievadīto ∆x no iepriekšējā argumenta, līdz tika aprēķinātas visas lietotāja ievadītās vērtības.
 
-####Šajā laboratorijas darbā izmantotā funkcija: sin(x)*sin(x)
-```
+Šajā laboratorijas darbā izmantotā funkcija: sin(x)*sin(x)
+
 ### Kods
 ```
 #include <stdio.h>
@@ -968,4 +968,4 @@ Pēc lietotāja ievadīta intervāla un precizitātes var secināt ka iegūtie d
 
 ### Bildes
 
-Funkcijas bilde: https://github.com/Drliksnitis/RTR---105/blob/master/Darbi/3_lab_darbs_derivative/
+Funkcijas bilde: https://github.com/Drliksnitis/RTR---105/blob/master/Darbi/3_lab_darbs_derivative/grafiku_attels.png
