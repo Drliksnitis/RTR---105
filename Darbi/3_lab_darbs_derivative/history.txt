@@ -1,0 +1,50 @@
+  172  rm -rf RTR---105
+  173  git clone https://github.com/Drliksnitis/RTR---105
+  174  cd RTR---105
+  175  cd ./Darbi
+  176  ls -lt
+  177  mkdir 3_lab_darbs_derivative
+  178  ls -lt
+  179  cd ./3_lab_darbs_derivative
+  180  nano 3lab_darba_kods.c
+  181  gcc 3lab_darba_kods.c
+  182  ./a.out
+  183  ls -lt
+  184  gcc 3lab_darba_kods.c -lm
+  185  ./a.out
+  186  ls -lt
+  187  nano derivative.dat
+  188  nano 3lab_darba_kods.c
+  189  gcc 3lab_darba_kods.c -lm
+  190  ./a.out
+  191  nano derivative.dat
+  192  gnuplot
+  193  nano derivative.dat
+  194  ls -lt
+  195  rm -rf RTR---105
+  196  ls -lt
+  197  cd RTR---105
+  198  git clone https://github.com/Drliksnitis/RTR---105
+  199  cd RTR---105
+  200  ls -lt
+  201  cd ./Darbi
+  202  ls -lt
+  203  mkdir 3_lab_darbs_derivative
+  204  ls -lt
+  205  cd ./3_lab_darbs_derivative
+  206  ls -lt
+  207  nano kods.c
+  208  gcc kods.c -lm
+  209  ./a.out
+  210  ls -lt
+  211  nano derivative.dat
+  212  nano kods.c
+  213  gcc kods.c -lm
+  214  ./a.out
+  215  ls -lt
+  216  nano derivative.dat
+  217  ls -lt
+  218  nano README.md
+  219  ls -lt
+  220  nano history.txt
+  221  history
